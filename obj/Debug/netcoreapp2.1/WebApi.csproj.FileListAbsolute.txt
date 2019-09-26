@@ -1,0 +1,14 @@
+C:\Users\curso02\source\repos\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\curso02\source\repos\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\curso02\source\repos\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\curso02\source\repos\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\curso02\source\repos\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\curso02\source\repos\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache

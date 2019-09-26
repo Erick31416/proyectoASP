@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=(localdb)\mssqllocaldb;Database=DBWebAPI;Trusted_Connection=True;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
