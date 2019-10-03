@@ -55,7 +55,7 @@ namespace WebApi
             });
             services.AddMvc();//.SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             var connection = @"Server=(localdb)\mssqllocaldb;Database=DBWebAPI;Trusted_Connection=True;ConnectRetryCount=0";
-            services.AddDbContext<DBWebAPIContext>(options => options.UseSqlServer(connection));
+            services.AddDbContext<dbWebAPIContext>(options => options.UseSqlServer(connection));
 
         }
 

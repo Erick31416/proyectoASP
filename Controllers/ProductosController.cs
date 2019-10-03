@@ -15,9 +15,9 @@ namespace WebApi.Controllers
     [ApiController]
     public class ProductosController : ControllerBase
     {
-        private readonly DBWebAPIContext _context;//conex representa la base de datos. hay quien cambia _context por db
+        private readonly dbWebAPIContext _context;//conex representa la base de datos. hay quien cambia _context por db
 
-        public ProductosController(DBWebAPIContext context)
+        public ProductosController(dbWebAPIContext context)
         {
             _context = context;
         }

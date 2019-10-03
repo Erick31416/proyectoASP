@@ -20,9 +20,9 @@ namespace WebApi.Controllers
     public class AuthController : ControllerBase
     {
 
-        private readonly DBWebAPIContext db;
+        private readonly dbWebAPIContext db;
 
-        public AuthController(DBWebAPIContext context)
+        public AuthController(dbWebAPIContext context)
         {
             db = context;
         }
